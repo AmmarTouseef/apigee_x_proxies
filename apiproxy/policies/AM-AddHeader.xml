@@ -2,7 +2,7 @@
 <AssignMessage name="AM-AddHeader">
     <Add>
         <Headers>
-            <Header name="X-Demo">CI-CD-Test</Header>
+            <Header name="X-Demo">CI-CD-Testing</Header>
         </Headers>
     </Add>
     <AssignTo createNew="false" type="request"/>
