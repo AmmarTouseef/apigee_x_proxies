@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage name="AM-AddHeader">
+    <Add>
+        <Headers>
+            <Header name="X-Demo">CI-CD-Test</Header>
+        </Headers>
+    </Add>
+    <AssignTo createNew="false" type="request"/>
+</AssignMessage>
